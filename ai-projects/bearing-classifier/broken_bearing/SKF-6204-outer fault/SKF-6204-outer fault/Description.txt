@@ -1,0 +1,41 @@
+# Measurement 
+date: di  4 mrt 2025 14:21:56 CET
+software revision: 327756b
+
+## Why?
+Test #16 outer fault
+
+## Settings
+Radiaal = +/- 6 Bar
+Axiaal = +/- 6 Bar
+Speed = 100% = 1120 RPM
+
+### Sensors
+Accelerometers:
+ - 150-1A
+   * 1616 - A3 - 103 - pointing upwards
+   * 1615 - A2 - 102 -  pointing in radial direction
+   * 1617 - A1 - 101 - pointing in axial direction
+- Fibers
+  - A: lower connection, input 1
+  - B: upper connection, input 2
+Temperature
+  - connected trough hole upper body (lower hole)
+Loadcell
+  - Axial and Radial
+Environment
+  - temperature
+  - humidity
+  - pressure
+  - 
+
+## Bearing (ID from system)
+ID: #16 outer fault
+type: SKF-6204
+
+## Logbook
+di  4 mrt 2025 14:25:40 CET
+ -start test motor 100%
+ 
+di  4 mrt 2025 14:56:09 CET
+ -einde test motor 0%
