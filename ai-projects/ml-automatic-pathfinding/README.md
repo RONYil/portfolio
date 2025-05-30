@@ -11,7 +11,7 @@ A basic machine learning demo that performs automatic pathfinding using decision
 - Interactive simulation in notebook
 - Can be extended to grid maps, mazes, or games
 
-## ▶️ How to Run
+## Structure
 
 ### 📁 Car_deployment_2_classification folder
 
