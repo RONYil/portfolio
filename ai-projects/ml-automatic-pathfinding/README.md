@@ -14,13 +14,13 @@ A basic machine learning demo that performs automatic pathfinding using decision
 ## ▶️ How to Run
 Car_deployment_2_classfication folder
 Which includes
-a. Folders for training and validation sets
-b. auto_category is used to automatically classify data according to the classification criteria in test
-c. Deploy_2 is used to test the deployment of binary classification models
-d. model_set2 is used to train binary classification models
-e. test -deployment2 is also a test deployment
-f. test contains methods for classifying images
-g. madpoint.csv is used for the short answer analysis of simple_analysis
+## a. Folders for training and validation sets
+## b. auto_category is used to automatically classify data according to the classification criteria in test
+## c. Deploy_2 is used to test the deployment of binary classification models
+## d. model_set2 is used to train binary classification models
+## e. test -deployment2 is also a test deployment
+## f. test contains methods for classifying images
+## g. madpoint.csv is used for the short answer analysis of simple_analysis
 
 Car_deployment_muti_classfication folder
 Which includes
